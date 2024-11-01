@@ -427,7 +427,7 @@ footer {
   }
 
   .container .legendContainer {
-    justify-content: start;
+    justify-content: center;
     align-items: flex-start;
   }
 
